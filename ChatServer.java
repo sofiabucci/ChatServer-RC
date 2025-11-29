@@ -17,8 +17,6 @@ import java.util.concurrent.*;
  * - Sistema de broadcast para mensagens em sala
  * - Mecanismo de escape para mensagens que começam com '/'
  * 
- * @author Ana Beatriz Carvalho Duarte
- * @author Eduardo Fernando Gonçalves Henriques
  */
 public class ChatServer
 {
