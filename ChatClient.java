@@ -16,9 +16,7 @@ import java.nio.charset.*;
  * - Comandos enviados: /nick, /join, /leave, /bye, /priv
  * - Estados do usuário: conectado, com nickname definido, dentro de sala
  * - Mecanismo de escape: mensagens começando com '/' não comandos são automaticamente escapadas
- * 
- * @author Ana Beatriz Carvalho Duarte  
- * @author Eduardo Fernando Gonçalves Henriques
+ *
  */
 public class ChatClient {
     private static final int BUFFER_SIZE = 1024;
